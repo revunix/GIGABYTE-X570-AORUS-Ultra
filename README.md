@@ -1,0 +1,2 @@
+# GIGABYTE-X570-AORUS-Ultra
+ OpenCore for GIGABYTE X570 AORUS Ultra
